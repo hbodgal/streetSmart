@@ -1,2 +1,2 @@
 # streetSmart
-A mobile app that suggests must visit places suggested by ChatGPT using live tracking and curated prompt
+A mobile app that notifies must visit places nearby suggested by ChatGPT using live tracking and user preferences
