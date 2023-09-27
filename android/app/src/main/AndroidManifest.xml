@@ -9,7 +9,7 @@
             android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCyPd9LbcRHBmXS1Jqsg-UGBoyC8-z_-Vk" />
+            android:value="key goes here" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
