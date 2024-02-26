@@ -30,7 +30,7 @@ Why Choose Street Smart?
 
 Get Started:
 
-Clone the Repo: git clone https://github.com/YourUsername/StreetSmart.git
+Clone the Repo: git clone https://github.com/hbodgal/streetSmart.git
 
 Install Dependencies: npm install
 
