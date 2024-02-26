@@ -5,9 +5,7 @@ I created this really cool app in TitanHacks 2023(24Hrs coding challange at CSUF
 Features that Make Street Smart Shine:
 
 📍 Live Tracking: Keep pace with your surroundings in real-time.
-
 🚗 Intelligent Notifications: Street Smart activates the ChatGPT API when you venture beyond a 5-mile radius from your last used location.
-
 📱 React Native: Built with React Native, ensuring a smooth and intuitive user experience.
 
 How Street Smart Works:
