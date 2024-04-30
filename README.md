@@ -8,7 +8,7 @@ Features that Make Street Smart Shine:
 
 🚗 Intelligent Notifications: Street Smart activates the ChatGPT API when you venture beyond a 5-mile radius from your last used location.
 
-📱 React Native: Built with React Native, ensuring a smooth and intuitive user experience.
+📱 Flutter: Built with Flutter, ensuring a smooth and intuitive user experience.
 
 How Street Smart Works:
 
