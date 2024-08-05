@@ -1,42 +1,44 @@
-🌐 Street Smart - Your Urban Explorer
+# 🌐 Street Smart - Your Urban Explorer
 
-I created this really cool app in TitanHacks 2023(24Hrs coding challange at CSUF). This app notifies user about must visit places nearby. While travelling, when user leaves 5miles radius from its last location, chatGPT api gets triggered and based on that location and preset prompts, user will be notified about must visit places nearby. This app uses live tracking and real time notifications.
+**Created at TitanHacks 2023 (24-hour coding challenge at CSUF)**
 
-Features that Make Street Smart Shine:
+Street Smart is an innovative app that notifies users about must-visit places nearby. Utilizing real-time tracking and ChatGPT API integration, it provides personalized recommendations as you travel.
 
-📍 Live Tracking: Keep pace with your surroundings in real-time.
+## Features that Make Street Smart Shine:
 
-🚗 Intelligent Notifications: Street Smart activates the ChatGPT API when you venture beyond a 5-mile radius from your last used location.
+- **📍 Live Tracking:** Keep pace with your surroundings in real-time.
+- **🚗 Intelligent Notifications:** Activates ChatGPT API when you venture beyond a 5-mile radius from your last location.
+- **📱 Flutter:** Built with Flutter, ensuring a smooth and intuitive user experience.
 
-📱 Flutter: Built with Flutter, ensuring a smooth and intuitive user experience.
-
-How Street Smart Works:
+## How Street Smart Works:
 
 Street Smart leverages advanced technology to provide you with the best recommendations:
 
-Real-Time Tracking: Stay connected as you move through the cityscape.
+- **Real-Time Tracking:** Stay connected as you move through the cityscape.
+- **ChatGPT Integration:** When you step beyond a 5-mile radius, our ChatGPT API gets to work.
+- **Tailored Suggestions:** Based on your location and preset prompts, receive notifications about must-visit places nearby.
 
-ChatGPT Integration: When you step beyond a 5-mile radius, our ChatGPT API gets to work.
+## Why Choose Street Smart?
 
-Tailored Suggestions: Based on your location and preset prompts, receive notifications about must-visit places nearby.
+- **🌟 Personalized Exploration:** Tailors recommendations to your preferences.
+- **🏰 Discover Urban Wonders:** Uncover hidden gems known only to the locals.
+- **🤖 ChatGPT Magic:** Our AI-driven assistant ensures every notification is relevant and engaging.
 
-Why Choose Street Smart?
+## Get Started:
 
-🌟 Personalized Exploration: Street Smart tailors recommendations to your preferences.
+1. **Clone the Repo:** 
+    ```sh
+    git clone https://github.com/hbodgal/streetSmart.git
+    ```
+2. **Install Dependencies:** 
+    ```sh
+    npm install
+    ```
+3. **Hit the Streets:** 
+    ```sh
+    npm start
+    ```
 
-🏰 Discover Urban Wonders: Uncover hidden gems known only to the locals.
-
-🤖 ChatGPT Magic: Our AI-driven assistant ensures every notification is relevant and engaging.
-
-Get Started:
-
-Clone the Repo: git clone https://github.com/hbodgal/streetSmart.git
-
-Install Dependencies: npm install
-
-Hit the Streets: npm start
-
-Join the Urban Exploration:
+## Join the Urban Exploration:
 
 Street Smart is an open-source project, and we invite enthusiasts of all kinds to contribute. Whether you're a coder, designer, or urban explorer, there's a place for you in our community. Let's redefine city travel together!
-
